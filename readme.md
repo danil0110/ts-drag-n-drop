@@ -1,6 +1,6 @@
 # Drag & Drop
 
-This is a demo project, where I learn TypeScript features by using them in practise.
+This is a demo project where I learn TypeScript features by using them in practise.
 
 ## Installation
 
