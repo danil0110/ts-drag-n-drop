@@ -1,8 +1,6 @@
 # Drag & Drop
 
-This is a demo project where I learn TypeScript features by using them in practise.
-
-## Installation
+This is a demo project where I learn TypeScript features by using them in practise.## Installation
 
 You can install this project by running this commands:
 
@@ -10,8 +8,7 @@ You can install this project by running this commands:
   git clone https://github.com/danil0110/ts-drag-n-drop.git
   cd ts-drag-n-drop
   npm install
-  tsc
-  npm start
+  npm run build
 ```
 
-Instructions might be changed soon.
+and opening `index.html` file.
